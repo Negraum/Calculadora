@@ -24,7 +24,6 @@ function criaCalculadora() {
           this.display.value = '';
         }
 
-
       }.bind(this));
     },
 
